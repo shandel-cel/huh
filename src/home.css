@@ -230,7 +230,7 @@ h1 a {
     width: 100%;
     height: 100%;
     object-fit: cover;
-    background: url('img/pfp.jpg') center/cover;
+    background: url('../img/pfp.jpg') center/cover;
 }
 
 .profile-info {
@@ -565,4 +565,5 @@ h1 a {
 .item6 { animation-delay: calc(30s / 8 * (8 - 6) * -1); }
 .item7 { animation-delay: calc(30s / 8 * (8 - 7) * -1); }
 .item8 { animation-delay: calc(30s / 8 * (8 - 8) * -1); }
+
 
